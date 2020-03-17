@@ -1,12 +1,12 @@
-ac30d0edffe54eb82b8766e873b1876b *DESCRIPTION
+f00b90855d87f756b5d8fc8168b5baa5 *DESCRIPTION
 f33be465d8e770187e96ed801d189f2d *NAMESPACE
 77710784efe52c1fc87404cf41e1a13c *R/gadget.R
-39d51332272e0b1bc4bfdede8ba712be *README.md
+e9e4cfa642ee8a666a27d4f1558d935f *README.md
 2d4ce93091d741ac40c328699c45e617 *cleanup
 7ee56b2c9ba5344023aa2bb4275004a1 *inst/COPYRIGHTS
 6e7b5d818d3bd0b5dac93c6d82ff6abc *man/gadget_binary.Rd
-2670c929d0348a56450e38eb84959947 *src/Makefile
-d24fb44067ab3183319d7a1d68123106 *src/Makevars.win
+4314ceb07440b82d25befd91342fde55 *src/Makevars
+d749e5412928112e04cef7e4f8798ba0 *src/Makevars.win
 59ab6401b492312807cc05c39743b86a *src/actionattimes.cc
 db73941981ad72a6d397dc1d91ed516d *src/addresskeepermatrix.cc
 3a5d6b6796c891f812fee17474e3437b *src/addresskeepervector.cc
@@ -87,7 +87,7 @@ feca839e1e214b0adcf24f5b5df6a73c *src/include/fleeteffortaggregator.h
 b9da2a1c651428842e407e58c9d363f9 *src/include/formulamatrix.h
 3e0f3587520396d2cf60bd049fd1ab5e *src/include/formulamatrixptrvector.h
 30df00745827e060ab804e08d50c7e43 *src/include/formulavector.h
-4823fd1523a88a2db8394969e58a4d17 *src/include/gadget.h
+87ccf9d2408631ce35c57874f2b2f5fd *src/include/gadget.h
 c95a3d168cf9c50421ddf8193af09656 *src/include/global.h
 43a815019c4eea2754d8d563b8c09a6c *src/include/grower.h
 453710bc6fbe3b528fe9188f5c26a2a2 *src/include/growthcalc.h
