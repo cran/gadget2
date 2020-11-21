@@ -206,7 +206,7 @@ void Maturity::deleteMaturityTag(const char* tagname) {
 }
 
 // ********************************************************
-// Functions for MaturityA
+// Functions for MaturityA - continuous
 // ********************************************************
 MaturityA::MaturityA(CommentStream& infile, const TimeClass* const TimeInfo,
   Keeper* const keeper, int minage, int numage, const IntVector& tmpareas,
@@ -317,7 +317,7 @@ int MaturityA::isMaturationStep(const TimeClass* const TimeInfo) {
 }
 
 // ********************************************************
-// Functions for MaturityB
+// Functions for MaturityB - fixedlength
 // ********************************************************
 MaturityB::MaturityB(CommentStream& infile, const TimeClass* const TimeInfo,
   Keeper* const keeper, int minage, int numage, const IntVector& tmpareas,
@@ -439,7 +439,7 @@ int MaturityB::isMaturationStep(const TimeClass* const TimeInfo) {
 }
 
 // ********************************************************
-// Functions for MaturityC
+// Functions for MaturityC - newconstant
 // ********************************************************
 MaturityC::MaturityC(CommentStream& infile, const TimeClass* const TimeInfo,
   Keeper* const keeper, int minage, int numage, const IntVector& tmpareas,
@@ -572,7 +572,7 @@ void MaturityC::Print(ofstream& outfile) const {
 }
 
 // ********************************************************
-// Functions for MaturityD
+// Functions for MaturityD - newconstantweight
 // ********************************************************
 MaturityD::MaturityD(CommentStream& infile, const TimeClass* const TimeInfo,
   Keeper* const keeper, int minage, int numage, const IntVector& tmpareas,
@@ -581,7 +581,7 @@ MaturityD::MaturityD(CommentStream& infile, const TimeClass* const TimeInfo,
 
   //read information on reference weights.
   ifstream subweightfile;
-  subweightfile.open(refWeightFile, ios::in);
+  subweightfile.open(refWeightFile, ios::binary);
   handle.checkIfFailure(subweightfile, refWeightFile);
   handle.Open(refWeightFile);
   CommentStream subweightcomment(subweightfile);
