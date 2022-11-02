@@ -1,8 +1,6 @@
-0d0d465bf50d6ff2dfe81a0cce783057 *DESCRIPTION
+2914a6d780d22742437c652d8904f6b6 *DESCRIPTION
 f33be465d8e770187e96ed801d189f2d *NAMESPACE
 77710784efe52c1fc87404cf41e1a13c *R/gadget.R
-a7b0e3702f1efd943bf4d19eee9e29bf *README.md
-2d4ce93091d741ac40c328699c45e617 *cleanup
 7ee56b2c9ba5344023aa2bb4275004a1 *inst/COPYRIGHTS
 6e7b5d818d3bd0b5dac93c6d82ff6abc *man/gadget_binary.Rd
 4314ceb07440b82d25befd91342fde55 *src/Makevars
@@ -215,7 +213,7 @@ e31d4613caa3e2b058f39c3e0a81d80a *src/intmatrix.cc
 5cc42f0f98da1741af51573d94406d59 *src/lengthgroup.cc
 d416a675d466a95b59a668adb351683e *src/lengthpredator.cc
 1d77eca6bf4b4cd3218b2dda0e54dded *src/lengthprey.cc
-eb58c1b8697c232859f2843ce7c03bd9 *src/likelihoodprinter.cc
+cb5c631f426b52022ace56e2c46b6cba *src/likelihoodprinter.cc
 ac32237a3e7f4ae350e9605f9a431efc *src/likelihoodptrvector.cc
 78c2f6eca2b74a1ce013759aee3beb2a *src/linearpredator.cc
 39aa6a7f3211c48f3b65e2c448d6bbe2 *src/livesonareas.cc
@@ -265,7 +263,7 @@ ed33105c77cde439f0ab32335606cb5d *src/predatorprinter.cc
 0b2e6310c9353c584c26648cb9e00afe *src/preyptrvector.cc
 7473aeff7e516ee4caa114c18b9fce11 *src/printerptrvector.cc
 a0b935a2a2e1870c0511d4da3cb390f3 *src/printinfo.cc
-d3b58747545e5b53334dc1b9279ceec1 *src/proglikelihood.cc
+90ee5a82cc85fc23aef14233ea72367c *src/proglikelihood.cc
 9dbd8b537f7b9543eab7a7fad4fb4824 *src/quotapredator.cc
 f7d85006431b9f3e567c4ffb7ce8e2b1 *src/readaggregation.cc
 64ad2f9761895f324cbd03d6f365592f *src/readfunc.cc
@@ -288,7 +286,7 @@ f31549e667e8e4e23f130dbff0b76861 *src/sibyeffortonstep.cc
 4ef124d7d3edda2238a17af4c3f75f8c *src/simann.cc
 4853f6659802c2f989353119aa459259 *src/simulation.cc
 d58d05dbefcccb6d8cfc79c166f7b9b8 *src/sionstep.cc
-a3d83dd356cef38138e5fc7e5fe7eb88 *src/spawner.cc
+608f5404879f2ff0af981f2736f96d29 *src/spawner.cc
 15c8dd9594d74be0e8e0a0e6eec1405a *src/stochasticdata.cc
 06c02f1fad05fe7cf34fafc7df3e28ca *src/stock.cc
 ae55f9408c0317cc7ad1ccf2774609d6 *src/stockaggregator.cc

@@ -2,13 +2,13 @@ Package: gadget2
 Type: Package
 Title: Gadget is the Globally-Applicable Area Disaggregated General
         Ecosystem Toolbox
-Version: 2.3.7
-Date: 2020-11-21
+Version: 2.3.9
+Date: 2022-11-02
 Authors@R: c(person("Bjarki Thor", "Elvarsson", email="bjarki.elvarsson@hafogvatn.is",role = c("aut", "cre")),
             person("James","Begley", email="james@hafro.is",role=c("aut")),
             person("Hoskuldur","Bjornsson", email="hoski@hafro.is",role=c("aut")),
             person("Jamie", "Lentin", email="lentinj@shuttlethread.com",role = c("ctb")),
-            person("Gunnar","Stefnasson", email="gunnar@hi.is",role=c("ctb")),
+            person("Gunnar","Stefansson", email="gunnar@hi.is",role=c("ctb")),
             person("Lorna","Taylor", email="lorna@hafro.is",role=c("ctb")),
             person("Daniel","Howell", email="daniel.howell@hi.no",role=c("ctb")),
             person("Sigurdur","Hannesson",role=c("ctb")),
@@ -38,7 +38,7 @@ Description: A statistical ecosystem modelling package, taking many features of
              areas with migration between areas; predation between and within
              species; maturation; reproduction and recruitment; multiple
              commercial and survey fleets taking catches from the populations.
-             For more details see <https://hafro.github.io/gadget2/>.
+             For more details see <https://gadget-framework.github.io/gadget2/>.
              This is the C++ Gadget2 runtime, making it available for R.
 Encoding: UTF-8
 Suggests: unittest (>= 1.4)
@@ -46,12 +46,12 @@ License: GPL-2
 RoxygenNote: 7.0.2
 Biarch: yes
 NeedsCompilation: yes
-Packaged: 2020-11-21 08:35:23 UTC; bthe
+Packaged: 2022-11-02 12:53:21 UTC; bthe
 Author: Bjarki Thor Elvarsson [aut, cre],
   James Begley [aut],
   Hoskuldur Bjornsson [aut],
   Jamie Lentin [ctb],
-  Gunnar Stefnasson [ctb],
+  Gunnar Stefansson [ctb],
   Lorna Taylor [ctb],
   Daniel Howell [ctb],
   Sigurdur Hannesson [ctb],
@@ -68,4 +68,4 @@ Author: Bjarki Thor Elvarsson [aut, cre],
   Bill Goffe [ctb, cph],
   Marine and Freshwater Research Institute (Iceland) [cph]
 Repository: CRAN
-Date/Publication: 2020-11-21 09:10:02 UTC
+Date/Publication: 2022-11-02 13:30:05 UTC
