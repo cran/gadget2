@@ -1,4 +1,4 @@
-2914a6d780d22742437c652d8904f6b6 *DESCRIPTION
+5aa418727f177c812a7474ea64b324b5 *DESCRIPTION
 f33be465d8e770187e96ed801d189f2d *NAMESPACE
 77710784efe52c1fc87404cf41e1a13c *R/gadget.R
 7ee56b2c9ba5344023aa2bb4275004a1 *inst/COPYRIGHTS
@@ -288,7 +288,7 @@ f31549e667e8e4e23f130dbff0b76861 *src/sibyeffortonstep.cc
 d58d05dbefcccb6d8cfc79c166f7b9b8 *src/sionstep.cc
 608f5404879f2ff0af981f2736f96d29 *src/spawner.cc
 15c8dd9594d74be0e8e0a0e6eec1405a *src/stochasticdata.cc
-06c02f1fad05fe7cf34fafc7df3e28ca *src/stock.cc
+fead32ac0a777356673473c62a66fc2a *src/stock.cc
 ae55f9408c0317cc7ad1ccf2774609d6 *src/stockaggregator.cc
 6c6e28613579714da9e44bde5ce1455f *src/stockdistribution.cc
 c7ec6e047dc0b13b50358056b2568986 *src/stockfullprinter.cc
